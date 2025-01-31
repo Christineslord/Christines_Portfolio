@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   and am currently employed at the Oklahoma City Zoo and Botanical Garden. I am interested in studying the impacts of habitat fragmentation along the human-wildlife interface, wetland protections,
   and utilizing GIS technologies in order to gain a greater understanding of the world we live in. 
   <br><br>
-  <a href=https://www.linkedin.com/in/christine-lord-534723349/>View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/christine-lord-534723349"/>View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
