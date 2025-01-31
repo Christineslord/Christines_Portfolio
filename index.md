@@ -1,8 +1,8 @@
-## My GIS Portfolio
+### My GIS Portfolio
 
 ---
 
-### Graduate Projects 
+## Graduate Projects 
 
 # Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 - Compares the use of geostatistical methods (Kriging vs IDW).
