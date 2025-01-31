@@ -8,7 +8,7 @@ Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 - Compares the use of geostatistical methods (Kriging vs IDW).
 - Considers the possible environmental concerns regarding ski area development.
 - Natural Resource Conservation Service historical "SNOTEL" data and weather stations.
-- <img src="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/images/CO_Mountain1.JPG?raw=true"/>
+<img src="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/images/CO_Mountain1.JPG?raw=true"/>
 <br><br>
 
 
