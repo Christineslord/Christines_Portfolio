@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   and utilizing GIS technologies in order to gain a greater understanding of the world we live in. 
   <br><br>
   <a href="https://www.linkedin.com/in/christine-lord-534723349"/>View My LinkedIn Profile</a> 
+  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
