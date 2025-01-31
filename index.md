@@ -8,8 +8,6 @@ Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 - Compares the use of geostatistical methods (Kriging vs IDW).
 - Considers the possible environmental concerns regarding ski area development.
 - Natural Resource Conservation Service historical "SNOTEL" data and weather stations.
-  <img src="![image](https://github.com/user-attachments/assets/e4fdd454-ee85-4a4f-b636-03ea5c478f5a)
-"/>"
 <br><br>
 
 
@@ -18,7 +16,7 @@ Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2025-01-31 131030.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
