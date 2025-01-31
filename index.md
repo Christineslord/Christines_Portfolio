@@ -4,7 +4,7 @@
 
 ### Graduate Projects 
 
-[Analyzing Snow Water Equivalent in Popular Ski Areas](/Snow Water Equiv)
+[Analyzing Snow Water Equivalent in Popular Ski Areas](<iframe src="https://storymaps.arcgis.com/stories/6d9b86ac2a2d41b689614c0cca4aa2cf?header" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>)
 <img src="C:\Users\Chris\OneDrive\Pictures\Saved Pictures\CO_Mountain.JPG?raw=true"/>
 
 ---
