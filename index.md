@@ -1,10 +1,11 @@
 # Geospatial Portfolio
-
+---
+This portfolio lists all previous and current projects. Links to the projects are provided in the column to the left. 
 
 ## Current Graduate Projects
-- Capstone coming summer 2025.
-  
 ---
+- Capstone coming summer 2025.
+
 ## Previous Graduate Projects 
 ---
 ### Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
