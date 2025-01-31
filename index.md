@@ -4,7 +4,7 @@
 
 ### Graduate Projects 
 
-Analyzing Snow Water Equivalent in Popular Ski Areas
+Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 - Compares the use of geostatistical methods (Kriging vs IDW).
 - Considers the possible environmental concerns regarding ski area development.
 - Natural Resource Conservation Service historical "SNOTEL" data and weather stations.
@@ -12,7 +12,7 @@ Analyzing Snow Water Equivalent in Popular Ski Areas
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Discovering Colorado's Wetlands by Size and County(/"C:\Users\Chris\OneDrive\Documents\Spatial Programming\Clord_FinalProject.pdf")
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
