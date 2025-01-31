@@ -21,7 +21,6 @@ Capstone coming summer 2025.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
 <img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
-
 ---
 
 
