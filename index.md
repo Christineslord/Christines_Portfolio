@@ -1,12 +1,12 @@
 # Geospatial Portfolio
 
----
+
 ## Current Graduate Projects
 - Capstone coming summer 2025.
   
 ---
 ## Previous Graduate Projects 
-
+---
 ### Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 - Compares the use of geostatistical methods (Kriging vs IDW).
 - Considers the possible environmental concerns regarding ski area development.
