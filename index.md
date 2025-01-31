@@ -5,7 +5,7 @@
 ### Graduate Projects 
 
 [Analyzing Snow Water Equivalent in Popular Ski Areas](/https://arcg.is/1XuSya0)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="C:\Users\Chris\OneDrive\Pictures\Saved Pictures\CO_Mountain.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
