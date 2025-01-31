@@ -16,7 +16,7 @@ Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
-<img src="images/Screenshot 2025-01-31 131030.png?raw=true"/>
+<img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
