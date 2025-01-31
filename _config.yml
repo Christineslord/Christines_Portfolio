@@ -20,4 +20,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 <br><br>
 plugins:
 - jekyll-remote-theme
+<br><br>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
