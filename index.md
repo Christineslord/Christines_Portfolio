@@ -1,10 +1,10 @@
-## Portfolio
+## My GIS Portfolio
 
 ---
 
-### Category Name 1 
+### Graduate Projects 
 
-[Project 1 Title](/sample_page)
+[Analyzing Snow Water Equivalent in Popular Ski Areas](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
