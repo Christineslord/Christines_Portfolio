@@ -12,7 +12,8 @@ Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 
 
 ---
-Discovering Colorado's Wetlands by Size and County(https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
+Discovering Colorado's Wetlands by Size and County
+(https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
