@@ -4,7 +4,7 @@
 
 ### Graduate Projects 
 
-## Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
+# Analyzing Snow Water Equivalent in Popular Colorado Ski Areas
 - Compares the use of geostatistical methods (Kriging vs IDW).
 - Considers the possible environmental concerns regarding ski area development.
 - Natural Resource Conservation Service historical "SNOTEL" data and weather stations.
@@ -13,7 +13,7 @@
 
 ---
 
-## Discovering Colorado's Wetlands by Size and County
+# Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
