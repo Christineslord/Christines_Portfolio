@@ -15,9 +15,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf"/>View My Wetlands Project</a>
   <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
-<br><br>
-<br><br>
 plugins:
 - jekyll-remote-theme
-<br><br>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
