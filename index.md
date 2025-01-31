@@ -16,7 +16,6 @@ Capstone coming summer 2025.
 <br><br>
 
 ---
-
 ### Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
