@@ -1,10 +1,10 @@
 # Geospatial Portfolio
 ---
-This portfolio lists all previous and current projects. Links to the projects are provided in the column to the left. 
+This portfolio lists all previous and current projects. Links to any previous or current projects are provided in the column to the left, as well as my LinkedIn page. 
 
 ## Current Graduate Projects
 ---
-- Capstone coming summer 2025.
+Capstone coming summer 2025.
 
 ## Previous Graduate Projects 
 ---
