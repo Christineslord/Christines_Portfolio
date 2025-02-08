@@ -24,12 +24,12 @@ Links to any previous or current projects are provided in the column to the left
 <img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
 ---
 
-## Long Format Resume
+### Long Format Resume
+- My up to date resume for 2025 is linked below. 
 https://github.com/Christineslord/Christines_Portfolio/blob/03e916df5664d376ff16c7ccc53a60a3a4a13741/pdf/Clord_Resume2025_.pdf
 
 
 
 
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
