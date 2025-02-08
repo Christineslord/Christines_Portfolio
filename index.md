@@ -24,7 +24,7 @@ Links to any previous or current projects are provided in the column to the left
 <img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
 ---
 
-
+## Long Format Resume
 
 
 
