@@ -25,8 +25,7 @@ Links to any previous or current projects are provided in the column to the left
 ---
 
 ## Long Format Resume
-<a href="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf"/>View My Wetlands Project</a>
-
+pdf/Clord_Resume2025.pdf
 
 
 
