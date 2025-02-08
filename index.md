@@ -27,7 +27,7 @@ Links to any previous or current projects are provided in the column to the left
 ### Long Format Resume
 - My up to date resume for 2025 is linked below.
 <br><br> 
-[Clord_Resume2025_.pdf](https://github.com/user-attachments/files/18722602/Clord_Resume2025_.pdf)
+(https://github.com/user-attachments/files/18722602/Clord_Resume2025_.pdf)
 
 
 
