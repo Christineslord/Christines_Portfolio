@@ -25,7 +25,7 @@ Links to any previous or current projects are provided in the column to the left
 ---
 
 ## Long Format Resume
-
+https://github.com/Christineslord/Christines_Portfolio/blob/03e916df5664d376ff16c7ccc53a60a3a4a13741/pdf/Clord_Resume2025_.pdf
 
 
 
