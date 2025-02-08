@@ -25,7 +25,7 @@ Links to any previous or current projects are provided in the column to the left
 ---
 
 ## Long Format Resume
-pdf/Clord_Resume2025.pdf
+
 
 
 
