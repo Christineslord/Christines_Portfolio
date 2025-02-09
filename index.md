@@ -28,7 +28,7 @@ Links to any previous or current projects are provided in the column to the left
 ---
 My up to date resume for 2025 is linked below.
 
-[link](https://github.com/user-attachments/files/18722602/Clord_Resume2025_.pdf")
+[Resume_2025](https://github.com/user-attachments/files/18722602/Clord_Resume2025_.pdf")
 
 
 
