@@ -28,9 +28,9 @@ Links to any previous or current projects are provided in the column to the left
 ---
 My up to date resume for 2025 is linked below.
 
-(https://github.com/user-attachments/files/18722602/Clord_Resume2025_.pdf)
+<a href="https://github.com/user-attachments/files/18722602/Clord_Resume2025_.pdf"/>
 
-
+ <a href="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf"/>View My Wetlands Project</a>
 
 
 
