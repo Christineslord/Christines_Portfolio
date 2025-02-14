@@ -26,7 +26,8 @@ Links to any previous or current projects are provided in the column to the left
 ### Using ArcGIS Online for Map Making and Utilzing the Living Atlas
 ---
 - Click on the picture below to view a recent map.
-[![Essential Massachusetts Fish Habitat & Wetlands]
+  
+[![Essential Massachusetts Fish Habitat & Wetlands](images/Screenshot 2025-02-14 105606.png)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=b3efe0fd3e4c4f34aec87a639ac93722)
 
 
 ### Long Format Resume
