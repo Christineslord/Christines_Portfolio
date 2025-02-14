@@ -27,12 +27,8 @@ Links to any previous or current projects are provided in the column to the left
 ---
 - Click on the picture below to view a recent map.
   
-[![Essential Massachusetts Fish Habitat & Wetlands](images/Screenshot 2025-02-14 105606.png)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=b3efe0fd3e4c4f34aec87a639ac93722)
+[![Essential Massachusetts Fish Habitat & Wetlands](images/Screenshot 2025-02-14 105606.png)](https://arcg.is/1j0mzK0)
 
-<!-- Add script to the <head> of your page to load the embeddable map component -->
-<script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script>
-<!-- Add custom element to <body> of your page -->
- <arcgis-embedded-map style="height:600px;width:700px;" item-id="b3efe0fd3e4c4f34aec87a639ac93722" theme="light" portal-url="https://uok.maps.arcgis.com" heading-enabled legend-enabled information-enabled ></arcgis-embedded-map>
 
 ### Long Format Resume
 ---
