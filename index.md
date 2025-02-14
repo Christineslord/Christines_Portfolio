@@ -27,7 +27,7 @@ Links to any previous or current projects are provided in the column to the left
 ---
 - Clicking on the link below will take you to an external ArcGIS Story Map page.
 - In order to view the map through MapView, you must have an account with ESRI with a subscription.
-
+<br><br>
 [Essential Massachusetts Fish Habitat & Wetlands](https://arcg.is/1j0mzK0)
 
 
