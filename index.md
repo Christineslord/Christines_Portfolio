@@ -30,6 +30,8 @@ Links to any previous or current projects are provided in the column to the left
 - The map investigates wetland types in the Cape Cod Area of Massachusets, in relation to essential fish habitat regions.
 - A subscription with ESRI may be required to use MapView.
 <br><br>
+<img src="https://github.com/Christineslord/Christines_Portfolio/blob/ba50ce8b56c332dcae9ba6fa1c9a179d9e736b40/images/Layout.jpg"
+
 [ArcGIS Online with StoryMap Access](https://arcg.is/1j0mzK0)
 <br><br>
 
