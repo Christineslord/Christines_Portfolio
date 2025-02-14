@@ -23,6 +23,11 @@ Links to any previous or current projects are provided in the column to the left
 - Uses National Wetlands Inventory Data for the state of Colorado. 
 <img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
 ---
+### Using ArcGIS Online for Map Making and Utilzing the Living Atlas
+---
+- Click on the picture below to view a recent map.
+[![Essential Massachusetts Fish Habitat & Wetlands]
+
 
 ### Long Format Resume
 ---
