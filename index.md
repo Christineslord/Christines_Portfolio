@@ -29,7 +29,7 @@ Links to any previous or current projects are provided in the column to the left
 - Clicking on the link below will take you to an external ArcGIS Story Map page.
 - In order to view the map through MapView, you must have an account with ESRI that is tied to a subscription.
 <br><br>
-[ArcGIS Online with StoryMap Access](ArcGIS_Online)
+[ArcGIS Online with StoryMap Access](https://arcg.is/1j0mzK0)
 <br><br>
 
 ### Long Format Resume
