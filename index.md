@@ -24,8 +24,9 @@ Links to any previous or current projects are provided below, as well as the lin
 ### Canopy Height Model Using Google Earth Engine
 - Provides link to a remote sensing lab completed in the summer of 2024.
 <br><br>
-[Canopy Height Model Lab](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
+[Canopy Height Model Lab App](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
 <br><br>
+[View the code at](https://code.earthengine.google.com/caff0782ef690beed54c1b18d50dbd04?hl=it)
 ---
 ### Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
