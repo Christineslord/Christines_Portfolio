@@ -15,7 +15,9 @@ Links to any previous or current projects are provided below, as well as the lin
 - Natural Resource Conservation Service historical "SNOTEL" data and weather stations.
 <img src="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/images/CO_Mountain1.JPG?raw=true"/>
 <br><br>
+
 [SWE ArcGIS StoryMap](https://arcg.is/1XuSya0)
+
 <br><br>
 
 ---
