@@ -26,7 +26,7 @@ Links to any previous or current projects are provided below, as well as the lin
 <br><br>
 [Canopy Height Model Lab App](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
 <br><br>
-[View the code at](https://code.earthengine.google.com/caff0782ef690beed54c1b18d50dbd04?hl=it)
+[View the code here](https://code.earthengine.google.com/caff0782ef690beed54c1b18d50dbd04?hl=it)
 ---
 ### Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
