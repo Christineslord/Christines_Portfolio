@@ -15,21 +15,21 @@ Links to any previous or current projects are provided below, as well as the lin
 - Natural Resource Conservation Service historical "SNOTEL" data and weather stations.
 <img src="https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/images/CO_Mountain1.JPG?raw=true"/>
 <br><br>
-
 [SWE ArcGIS StoryMap](https://arcg.is/1XuSya0)
-
 <br><br>
 
 ---
 ### Canopy Height Model Using Google Earth Engine
 - Provides link to a remote sensing lab completed in the summer of 2024.
+<br><br>
 [Canopy Height Model Lab](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
 <br><br>
 ---
 ### Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
-- Uses National Wetlands Inventory Data for the state of Colorado. 
+- Uses National Wetlands Inventory Data for the state of Colorado.
+<br><br>
 [Wetland Project](https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
 <br><br>
 ---
