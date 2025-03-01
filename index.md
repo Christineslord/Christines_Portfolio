@@ -17,13 +17,18 @@ Links to any previous or current projects are provided in the column to the left
 <br><br>
 
 ---
+### Canopy Height Model Using Google Earth Engine
+- Provides link to a remote sensing lab completed in the summer of 2024.
+- [Canopy Height Model Lab](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
+<br><br>
+---
 ### Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
 <img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
 <br><br>
-
+[Wetland Project](https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
 ---
 ### Using ArcGIS Online for Map Making and Utilzing the Living Atlas
 - Clicking on the link below will take you to an external ArcGIS Story Map page.
