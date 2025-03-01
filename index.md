@@ -26,9 +26,8 @@ Links to any previous or current projects are provided in the column to the left
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
-<img src="images/Screenshot 2025-01-31 131600.png?raw=true"/>
-<br><br>
-[Wetland Project](https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
+- [Wetland Project](https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
+- <br><br>
 ---
 ### Using ArcGIS Online for Map Making and Utilzing the Living Atlas
 - Clicking on the link below will take you to an external ArcGIS Story Map page.
