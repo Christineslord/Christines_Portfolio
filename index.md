@@ -1,7 +1,7 @@
 # Geospatial Portfolio
 ---
 This portfolio lists all previous and current projects related to GIS. 
-Links to any previous or current projects are provided in the column to the left, as well as the link to view my LinkedIn account.  
+Links to any previous or current projects are provided below, as well as the link to view my LinkedIn account on the left.  
 
 ## Current Graduate Projects
 ---
@@ -23,14 +23,14 @@ Links to any previous or current projects are provided in the column to the left
 ---
 ### Canopy Height Model Using Google Earth Engine
 - Provides link to a remote sensing lab completed in the summer of 2024.
-- [Canopy Height Model Lab](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
+[Canopy Height Model Lab](https://ee-christineslord1.projects.earthengine.app/view/canopy-height-model---lab-5b)
 <br><br>
 ---
 ### Discovering Colorado's Wetlands by Size and County
 - Utilizes the jupyter notebook within ArcGIS Pro.
 - Creates and imports python modules.
 - Uses National Wetlands Inventory Data for the state of Colorado. 
-- [Wetland Project](https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
+[Wetland Project](https://github.com/Christineslord/Christines_Portfolio.github.io/blob/master/pdf/Clord_FinalProject.pdf)
 <br><br>
 ---
 ### Using ArcGIS Online for Map Making and Utilzing the Living Atlas
