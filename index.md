@@ -50,7 +50,7 @@ Links to any previous or current projects are provided below, as well as the lin
 ---
 My up to date resume for 2025 is linked below.
 
-[Resume_2025](https://github.com/Christineslord/Christines_Portfolio/blob/531f5a9d53fe42d6278bb4752df699d69e0c9410/pdf/Clord_Resume2025.pdf)
+[Resume_2025](https://github.com/Christineslord/Christines_Portfolio/blob/80ac64e11488ecaed4577483f1e301ed17e87131/pdf/Clord_Resume2025.pdf)
 
 
 
